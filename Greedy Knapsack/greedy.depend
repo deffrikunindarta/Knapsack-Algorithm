@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557382974 source:d:\back up c\download\daa\tubes\greedy\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
+1557463184 source:d:\back up c\download\daa\tubes\greedy knapsack\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

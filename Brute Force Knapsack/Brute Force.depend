@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557434321 source:d:\back up c\download\daa\tubes\brute force knapsack\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
